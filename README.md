@@ -41,7 +41,7 @@ Whether you're building internal developer tools, automating DevOps pipelines, o
 ```bash
 # Clone the repository
 
-cd sentinel-api
+cd ops-api
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
