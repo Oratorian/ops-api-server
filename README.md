@@ -11,7 +11,7 @@ This service acts as an intelligent access gateway, making it ideal for scenario
 - Service monitoring and automated restarts
 - Lightweight deployment with strong modular separation
 
-Whether you're building internal developer tools, automating DevOps pipelines, or protecting microservices, Sentinel API offers a robust, production-ready foundation.
+Whether you're building internal developer tools, automating DevOps pipelines, or protecting microservices, OPS API offers a robust, production-ready foundation.
 
 ---
 
@@ -40,7 +40,7 @@ Whether you're building internal developer tools, automating DevOps pipelines, o
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/sentinel-api.git
+
 cd sentinel-api
 
 # Create virtual environment (optional but recommended)
