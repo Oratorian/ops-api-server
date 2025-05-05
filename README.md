@@ -1,6 +1,6 @@
 # OPS API
 
-**OPS API** is a modular, secure, and rate-limited backend service designed to manage API keys and monitor operational health. It enables fine-grained control over access and concurrency while supporting extensible system endpoints for infrastructure orchestration.
+**OPS API** is a modular, secure, and rate-limited backend service designed to manage and monitor. It enables fine-grained control over access and concurrency while supporting extensible system endpoints for infrastructure orchestration.
 
 ## 🚀 Overview
 
