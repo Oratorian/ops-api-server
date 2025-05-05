@@ -80,7 +80,7 @@ api/
 - Kubernetes-native restart hooks
 
 ## 🛡 License
-This project is licensed under the MIT License. See LICENSE for more information.
+This project is licensed under the GPL-3 License. See LICENSE for more information.
 
 ## 🤝 Contributing
 We welcome contributions! Please open an issue or submit a pull request for any improvements, features, or bug reports.
